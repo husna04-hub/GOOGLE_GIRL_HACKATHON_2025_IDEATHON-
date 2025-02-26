@@ -54,6 +54,3 @@ In our testing across various designs, the model achieved:
 
 ## Contributing
 Contributions welcome! Please feel free to submit pull requests.
-
-## License
-Open source under MIT license
